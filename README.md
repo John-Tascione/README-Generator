@@ -38,3 +38,5 @@
     ## Questions
     
     For questions pleas contact john-tascione
+    
+    Link to video can be found at https://drive.google.com/file/d/1GiS7C9X2SEMC15FhdYh7Mgwv0hpTRr6F/view.
